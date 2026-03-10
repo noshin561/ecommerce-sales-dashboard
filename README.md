@@ -12,3 +12,5 @@ Built using Tableau Public with real sales data.
 ## Tools Used:
 - Tableau Public
 - CSV Data (9,271 rows)
+## 🔗 Live Dashboard
+[Click here to view on Tableau Public](https://public.tableau.com/app/profile/mohammed.noshin/viz/E-CommerceSalesDashboard_17731746088110/Dashboard1)
